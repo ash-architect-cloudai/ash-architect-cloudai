@@ -1,12 +1,14 @@
   ## Hi there 👋
 
   Passionate about designing scalable, intelligent, and secure enterprise solutions.
+
+### <b>Technology Interests</b>
   
-####  ☁️ Cloud Architecture
+  ####  ☁️ Cloud Architecture
   
-  🧠 Gen AI | RAG | MCP | Agentic AI
+  ####  🧠 Gen AI | RAG | MCP | Agentic AI
   
-  🌐 Networking & Distributed systems
+  ####  🌐 Networking & Distributed systems
 
 
 <!--
