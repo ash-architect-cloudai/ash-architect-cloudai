@@ -1,4 +1,9 @@
-## Hi there 👋
+  ## Hi there 👋
+
+  Passionate about designing scalable, intelligent, and secure enterprise solutions.
+  
+  ☁️ Cloud Architecture 🧠 Gen AI | RAG | MCP | Agentic AI 🌐 Networking & Distributed systems
+
 
 <!--
 **ash-architect-cloudai/ash-architect-cloudai** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
