@@ -2,7 +2,9 @@
 
   Passionate about designing scalable, intelligent, and secure enterprise solutions.
   
-  ☁️ Cloud Architecture 🧠 Gen AI | RAG | MCP | Agentic AI 🌐 Networking & Distributed systems
+  ☁️ Cloud Architecture 
+  🧠 Gen AI | RAG | MCP | Agentic AI 
+  🌐 Networking & Distributed systems
 
 
 <!--
